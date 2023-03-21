@@ -1,4 +1,4 @@
-/*Erick Andrey Ortiz Guerra 0909 22 17063*/
+/*Erick Andrey Ortiz Guerra 0909 22 17063 EJERCICIOS2*/
 #include <iostream>
 
 using namespace std;
